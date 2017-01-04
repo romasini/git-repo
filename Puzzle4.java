@@ -15,7 +15,7 @@ public class Puzzle4{
             x = x - 1;
             result = result + obs[x].doStuff(x);
         }
-        System.out.println("Results " + result);
+        System.out.println("Results yo" + result);
     }
 }
 
