@@ -16,6 +16,7 @@ public class Puzzle4{
             result = result + obs[x].doStuff(x);
         }
         System.out.println("Results yo" + result);
+        /*kjhlk8*/
     }
 }
 
